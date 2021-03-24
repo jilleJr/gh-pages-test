@@ -15,5 +15,5 @@ just_the_docs:
   collections:
     guides:
       name: Guides
-    rfcs:
+    accepted:
       name: Accepted RFCs
