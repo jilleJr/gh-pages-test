@@ -4,11 +4,16 @@ last_edit_timestamp: true
 last_edit_time_format: "%F at %R"
 
 collections:
-  rfcs:
-    permalink: "/:path/"
+  guides:
+    permalink: "/:collection/:slug"
+    output: true
+  accepted:
+    permalink: "/:collection/:slug"
     output: true
 
 just_the_docs:
   collections:
+    guides:
+      name: Guides
     rfcs:
-      name: RFCs
+      name: Accepted RFCs
