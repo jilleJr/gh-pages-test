@@ -1,3 +1,3 @@
 # Index
 
-this is the `index.md`
+This is the `index.md`
