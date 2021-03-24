@@ -5,10 +5,10 @@ last_edit_time_format: "%F at %R"
 
 collections:
   guides:
-    permalink: "/:collection/:slug"
+    permalink: "/:collection/:path"
     output: true
   accepted:
-    permalink: "/:collection/:slug"
+    permalink: "/:collection/:path"
     output: true
 
 just_the_docs:
